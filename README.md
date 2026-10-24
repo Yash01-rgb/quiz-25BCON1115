@@ -1,5 +1,3 @@
-# Quiz_25bcon1115
-
 # Code With AI Quiz
 
 An interactive, browser-based quiz application built using HTML, CSS, and JavaScript. The application presents multiple-choice questions about programming, AI, software development, and computer science concepts, then displays the user's final score.
@@ -23,7 +21,7 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 ## Project Structure
 
 ```text
-Queez-25BOCN1092/
+quiz-25BOCN1115/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -41,13 +39,12 @@ You only need a modern web browser, such as Google Chrome, Microsoft Edge, or Fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HARSH1-rgb/Queez-25BOCN1092.git
-   ```
+   git clone https://github.com/Yash01-rgb/quiz-25BCON1115.git   ```
 
 2. Open the project folder:
 
    ```bash
-   cd Queez-25BOCN1092
+   cd quiz-25BOCN1115
    ```
 
 3. Open `index.html` in your web browser.
